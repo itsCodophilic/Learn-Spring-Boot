@@ -236,7 +236,7 @@ public class ExternalApiCall {
 | **Spring Framework**      | Part of Spring MVC.                   | Part of Spring WebFlux.                 |
 
 
-- Lets learn about [SpringBoot without Maven](https://github.com/codophilic/LearnSpringBoot/blob/main/SpringBoot%20Without%20Maven.md)
+- Lets learn about [SpringBoot without Maven](https://github.com/itsCodophilic/Learn-Spring-Boot/blob/main/SpringBoot%20Without%20Maven.md)
 
 
 

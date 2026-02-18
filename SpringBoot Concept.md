@@ -1,5 +1,5 @@
 # About SpringBoot
-- [Pre-requisite is Spring](https://github.com/codophilic/LearnSpring)
+- [Pre-requisite is Spring](https://github.com/itsCodophilic/Learn-Spring)
 - Spring Framework is powerful, but it can be complex and requires a lot of boilerplate code and configuration to set up a project. Spring Boot was introduced to simplify this process.
 - Spring Boot is built on top of the conventional spring framework. So, it provides all the features of spring and is easier to use than spring.
 - Lets see what SprintBoot can do which Spring can't
@@ -235,7 +235,7 @@ Spring Project
 
 ## Dependency Injection (DI) and IoC Container
 
-- Not sure what is DI and Ioc?, learn [here](https://github.com/codophilic/LearnSpring/blob/main/Spring%20Concepts.md#dependency-injection-di-and-inversion-of-control-iocbean-container)
+- Not sure what is DI and Ioc?, learn [here](https://github.com/itsCodophilic/Learn-Spring/blob/main/Spring%20Concepts.md#dependency-injection-di-and-inversion-of-control-iocbean-container)
 - Lets inject some objects like we use to do in spring. So here we create a class call coders, here we tell springboot that class coders is my bean, so to specify this we use annotation `@Component`.
 
 ```
@@ -623,9 +623,9 @@ spring.jpa.show-sql=true
 
 - Spring Boot DevTools provides several other features.
 
-- Above learnings are implemented [here](https://github.com/codophilic/LearnSpringBoot/tree/main/simpleproject/simpleproject/src/main/java/com/spring/boot/project).
-- All the basic concepts of [spring](https://github.com/codophilic/LearnSpring/blob/main/Spring%20Concepts.md#about-spring) is applicable for springboot.
-- Lets learn how to [JPA and SpringBoot](https://github.com/codophilic/LearnSpringBoot/blob/main/SpringBoot%20JPA.md#about-springboot-jpa)
+- Above learnings are implemented [here](https://github.com/itsCodophilic/Learn-Spring-Boot/tree/main/simpleproject/simpleproject/src/main/java/com/spring/boot/project).
+- All the basic concepts of [spring](https://github.com/itsCodophilic/Learn-Spring/blob/main/Spring%20Concepts.md#about-spring) is applicable for springboot.
+- Lets learn how to [JPA and SpringBoot](https://github.com/itsCodophilic/Learn-Spring-Boot/blob/main/SpringBoot%20JPA.md#about-springboot-jpa)
 - In the above learnings we will be using STS (Spring Tool Suit). STS (Spring Tool Suite) is essentially a preconfigured version of Eclipse specifically tailored for Spring development. STS comes with all the necessary plugins and configurations for Spring development out-of-the-box, saving you time and effort. STS provides advanced features like Spring Boot support, Spring Data JPA support, Spring MVC support, and more, offering a seamless development experience. STS includes templates and wizards to quickly create Spring projects, accelerating development. STS often provides integration with cloud platforms like Cloud Foundry, simplifying deployment.
 - This [version of STS is used](https://cdn.spring.io/spring-tools/release/STS4/4.24.0.RELEASE/dist/e4.32/spring-tool-suite-4-4.24.0.RELEASE-e4.32.0-win32.win32.x86_64.self-extracting.jar)
 

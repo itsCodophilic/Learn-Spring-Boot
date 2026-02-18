@@ -928,9 +928,9 @@ error.email.invalid=Le format de l'email est invalide
 
 ![alt text](Images/springbootwithoutmaven/imageMsg.png)
 
-- Above learnings are implemented [here](https://github.com/codophilic/LearnSpringBoot/tree/main/SpringBoot%20Without%20Maven/api)
+- Above learnings are implemented [here](https://github.com/itsCodophilic/Learn-Spring-Boot/tree/main/SpringBoot%20Without%20Maven/api)
 
-- Lets learn about [Spring Boot Security](https://github.com/codophilic/LearnSpringBoot/blob/main/SpringBoot%20Security.md#about-springboot-security)
+- Lets learn about [Spring Boot Security](https://github.com/itsCodophilic/Learn-Spring-Boot/blob/main/SpringBoot%20Security.md#about-springboot-security)
 
 
 

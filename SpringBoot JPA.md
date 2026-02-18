@@ -1,5 +1,5 @@
 # About SpringBoot JPA
-- Learn about [JPA](https://github.com/codophilic/Learn-Hibernate-ORM/blob/main/Theory.md#jpa-java-persistence-api)
+- Learn about [JPA](https://github.com/itsCodophilic/Learn-Hibernate-ORM/blob/main/Theory.md#jpa-java-persistence-api)
 - Lets create a SpringBoot JPA project
 
 ![alt text](Images/springjpa/image.png) 
@@ -1322,8 +1322,8 @@ Hibernate: delete u1_0 from user_details u1_0 where u1_0.user_id=? or u1_0.user_
 
 ![alt text](Images/springjpa/image-10.png)
 
-- Above learnings are implemented [here](https://github.com/codophilic/LearnSpringBoot/tree/main/SpringBoot%20JPA/demo/src/main/java/com/springboot/jpa)
-- Lets learn about [Thymeleaf](https://github.com/codophilic/LearnSpringBoot/blob/main/SpringBoot%20Thymeleaf.md#about-thymeleaf)
+- Above learnings are implemented [here](https://github.com/itsCodophilic/Learn-Spring-Boot/tree/main/SpringBoot%20JPA/demo/src/main/java/com/springboot/jpa)
+- Lets learn about [Thymeleaf](https://github.com/itsCodophilic/Learn-Spring-Boot/blob/main/SpringBoot%20Thymeleaf.md#about-thymeleaf)
 
 
 

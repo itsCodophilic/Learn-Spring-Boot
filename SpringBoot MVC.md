@@ -1,5 +1,5 @@
 # About SpringBoot MVC
-- When we create MVC structure in spring a lot of configuration is required example configuring dispatcher servlet, View Resolver and etc. Check here about [Spring MVC](https://github.com/codophilic/LearnSpring/blob/main/Spring%20MVC.md)
+- When we create MVC structure in spring a lot of configuration is required example configuring dispatcher servlet, View Resolver and etc. Check here about [Spring MVC](https://github.com/itsCodophilic/Learn-Spring/blob/main/Spring%20MVC.md)
 - Lets see how easier we can create MVC structure in SpringBoot. Lets create a simple web project in STS
 
 ![alt text](Images/springbootmvc/image.png)
@@ -482,7 +482,7 @@ UserForm.java
 ```
 
 - **Here we are not using service and dao layer, this is a simple form example**.
-- Above learnings are implemented [here](https://github.com/codophilic/LearnSpringBoot/tree/main/SpringBoot%20MVC/demo/src/main/java/com/spring/mvc)
+- Above learnings are implemented [here](https://github.com/itsCodophilic/Learn-Spring-Boot/tree/main/SpringBoot%20MVC/demo/src/main/java/com/spring/mvc)
 - Same can be done without using **SpringBoot** and only using **Spring**.
 - Concepts of Spring MVC are applied to SpringBoot as well.
-- Lets learn about [SpringBoot REST Apis](https://github.com/codophilic/LearnSpringBoot/blob/main/SpringBoot%20REST%20APIs.md)
+- Lets learn about [SpringBoot REST Apis](https://github.com/itsCodophilic/Learn-Spring-Boot/blob/main/SpringBoot%20REST%20APIs.md)

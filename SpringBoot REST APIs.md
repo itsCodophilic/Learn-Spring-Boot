@@ -869,7 +869,7 @@ Hibernate: alter table book_table add constraint FKsjw4gp278w3h7t6pr4pb755hl for
 ![alt text](Images/springbootrestapis/image-27.png)
 
 
-- Above learnings are implemented [here](https://github.com/codophilic/LearnSpringBoot/tree/main/SpringBoot%20REST%20APIs/restapi/src/main/java/com/springboot/rest)
+- Above learnings are implemented [here](https://github.com/itsCodophilic/Learn-Spring-Boot/tree/main/SpringBoot%20REST%20APIs/restapi/src/main/java/com/springboot/rest)
 - Learn try to call [external api using spring boot](/SpringBoot%20and%20External%20API.md)
 
 
